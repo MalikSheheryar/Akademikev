@@ -1,0 +1,134 @@
+.no-scrollbar::-webkit-scrollbar {
+  display: none; /* Safari and Chrome */
+}
+
+.purpleTxt {
+  text-decoration: none;
+  color: #5e27ff;
+}
+
+.redTxt {
+  text-decoration: none;
+  color: red;
+}
+.purple {
+  background-color: #5e27ff;
+}
+.white {
+  background-color: white;
+}
+.orangeTxt {
+  text-decoration: none;
+  color: #ff8c00;
+}
+.fontfam h1 {
+  font-family: 'Caladea', serif;
+  display: inline;
+  font-size: 2.6rem;
+}
+.fontfam .orangeBtn {
+  background-color: #ef670d;
+  color: white;
+  border: 1px solid #ef670d;
+}
+.fontfam .orangeBtn:hover {
+  background-color: white;
+  color: #ef670d;
+  border: 1px solid #ef670d;
+}
+.fontfam .purpleBtn {
+  background-color: #5e27ff;
+  color: white;
+  border: 1px solid #5e27ff;
+}
+.purpleBtn {
+  background-color: #5e27ff;
+  color: white;
+  border: 1px solid #5e27ff;
+}
+.fontfam .purpleBtn:hover {
+  background-color: white;
+  color: #5e27ff;
+  border: 1px solid #5e27ff;
+}
+#caladea {
+  font-family: 'Caladea', serif;
+}
+#purple {
+  color: #5e27ff;
+}
+.screen {
+  width: 100%;
+  height: 100%;
+}
+.checked {
+  color: #ef670d;
+}
+.contact button {
+  font-size: small;
+  padding-left: 0.7rem;
+  padding-right: 0.7rem;
+  padding-top: 0.2rem;
+  padding-bottom: 0.2rem;
+  color: white;
+  background-color: #ef670d;
+}
+.contact button:hover {
+  background-color: #5e27ff;
+  color: white;
+  border: 1px solid #5e27ff;
+}
+.card-body svg {
+  width: 100%;
+  height: 50%;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+}
+.svvg svg {
+  height: 3rem;
+  padding-top: 0.5rem;
+}
+.cardd {
+  border-radius: 20px;
+  box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.2);
+  width: 95%;
+}
+.gap {
+  padding-top: 6rem;
+}
+.svggg svg {
+  width: 75%;
+}
+.ysh svg {
+  width: 50%;
+}
+.gap h3 {
+  font-size: 1.5rem;
+}
+.outlinedou {
+  border: 1px solid lightgray;
+}
+.fontt {
+  font-size: 2rem;
+}
+.btnStyle .purpleBtn {
+  background-color: #5e27ff;
+  color: white;
+  border: 1px solid #5e27ff;
+  font-size: 0.9rem;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  padding-top: 0.6rem;
+  padding-bottom: 0.6rem;
+}
+.btnStyle .purpleBtn:hover {
+  background-color: white;
+  color: #5e27ff;
+  border: 1px solid #5e27ff;
+}
+.trf {
+  width: 80%;
+}
+.orange {
+  color: #ff6760;
+}
